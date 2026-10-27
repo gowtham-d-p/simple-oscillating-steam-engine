@@ -32,6 +32,12 @@ In an oscillating steam engine, the cylinder pivots around a fixed point as the 
 - Understand the operating principle of an oscillating steam engine.
 - Prepare engineering drawings and document the design.
 
+
+## Final Assembly
+
+![Simple Oscillating Steam Engine - Assembly](<simple oscilation steam/Assem1.JPG>)
+
+
 ## Project Status
 
 Status: In progress
